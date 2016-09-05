@@ -52,7 +52,7 @@ class MyStat {
 		float avg = this.getSum(), variance = 0;
 		for(int i=0;i < n;++i)
 			variance += (numbers[i]-avg) * (numbers[i]-avg);
-		return variance/(n*n);
+		return variance/(n - 1);
 	}
 
 	public static void main(String[] args) {
