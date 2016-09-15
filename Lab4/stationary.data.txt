@@ -1,0 +1,43 @@
+Jones,Pencil,95,1.99,189.05
+Kivell,Binder,50,19.99,999.5
+Jardine,Pencil,36,4.99,179.64
+Gill,Pen,27,19.99,539.73
+Sorvino,Pencil,56,2.99,167.44
+Jones,Binder,60,4.99,299.4
+Andrews,Pencil,75,1.99,149.25
+Jardine,Pencil,90,4.99,449.1
+Thompson,Pencil,32,1.99,63.68
+Jones,Binder,60,8.99,539.4
+Morgan,Pencil,90,4.99,449.1
+Howard,Binder,29,1.99,57.71
+Parent,Binder,81,19.99,1619.19
+Jones,Pencil,35,4.99,174.65
+Smith,Desk,2,125,250
+Jones,Pen Set,16,15.99,255.84
+Morgan,Binder,28,8.99,251.72
+Jones,Pen,64,8.99,575.36
+Parent,Pen,15,19.99,299.85
+Kivell,Pen Set,96,4.99,479.04
+Smith,Pencil,67,1.29,86.43
+Parent,Pen Set,74,15.99,1183.26
+Gill,Binder,46,8.99,413.54
+Smith,Binder,87,15,1305.00
+Jones,Binder,4,4.99,19.96
+Sorvino,Binder,7,19.99,139.93
+Jardine,Pen Set,50,4.99,249.5
+Andrews,Pencil,66,1.99,131.34
+Howard,Pen,96,4.99,479.04
+Gill,Pencil,53,1.29,68.37
+Gill,Binder,80,8.99,719.2
+Kivell,Desk,5,125,625
+Jones,Pen Set,62,4.99,309.38
+Morgan,Pen Set,55,12.49,686.95
+Kivell,Pen Set,42,23.95,1005.90
+Sorvino,Desk,3,275,825
+Gill,Pencil,7,1.29,9.03
+Sorvino,Pen,76,1.99,151.24
+Thompson,Binder,57,19.99,1139.43
+Andrews,Pencil,14,1.29,18.06
+Jardine,Binder,11,4.99,54.89
+Jardine,Binder,94,19.99,1879.06
+Andrews,Binder,28,4.99,139.72
